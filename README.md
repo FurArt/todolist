@@ -15,9 +15,7 @@ REST API integration using fetch
 Server-side persistence
 
 🔗 Live Preview
-👉 View App Online
-
-(Replace with your actual link)
+👉 View App Online (ToDo List)[https://furart.github.io/todolist/]
 
 🖼️ Features
 ✅ Add, delete, and mark tasks as completed
